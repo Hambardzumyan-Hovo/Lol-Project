@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Lol-Project/static/css/main.687fd929.chunk.css",
+    "main.js": "/Lol-Project/static/js/main.b0a7d7ac.chunk.js",
+    "main.js.map": "/Lol-Project/static/js/main.b0a7d7ac.chunk.js.map",
+    "runtime-main.js": "/Lol-Project/static/js/runtime-main.bf04e72e.js",
+    "runtime-main.js.map": "/Lol-Project/static/js/runtime-main.bf04e72e.js.map",
+    "static/css/2.a10d0ab9.chunk.css": "/Lol-Project/static/css/2.a10d0ab9.chunk.css",
+    "static/js/2.6d6496a7.chunk.js": "/Lol-Project/static/js/2.6d6496a7.chunk.js",
+    "static/js/2.6d6496a7.chunk.js.map": "/Lol-Project/static/js/2.6d6496a7.chunk.js.map",
+    "index.html": "/Lol-Project/index.html",
+    "static/css/2.a10d0ab9.chunk.css.map": "/Lol-Project/static/css/2.a10d0ab9.chunk.css.map",
+    "static/css/main.687fd929.chunk.css.map": "/Lol-Project/static/css/main.687fd929.chunk.css.map",
+    "static/js/2.6d6496a7.chunk.js.LICENSE.txt": "/Lol-Project/static/js/2.6d6496a7.chunk.js.LICENSE.txt",
+    "static/media/assasin.8a702e79.png": "/Lol-Project/static/media/assasin.8a702e79.png",
+    "static/media/fighter.0dfe301b.png": "/Lol-Project/static/media/fighter.0dfe301b.png",
+    "static/media/logo.4844b480.png": "/Lol-Project/static/media/logo.4844b480.png",
+    "static/media/tank.9f6ecb65.png": "/Lol-Project/static/media/tank.9f6ecb65.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf04e72e.js",
+    "static/css/2.a10d0ab9.chunk.css",
+    "static/js/2.6d6496a7.chunk.js",
+    "static/css/main.687fd929.chunk.css",
+    "static/js/main.b0a7d7ac.chunk.js"
+  ]
+}
